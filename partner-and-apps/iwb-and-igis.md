@@ -24,7 +24,7 @@ IGISˢᶦˣ von iwb Immobilienwirtschaftliche Beratung GmbH ist eine Softwarelö
 ## Use Cases
 
 ### 1. Master Data
-Die Errichtung des Datenaustauschs "Master Data" ermöglicht die laufende Aktualisierung der in IGISˢᶦˣ abgebildeten "Stammobjekte" mit allen, für IGISˢᶦˣ relevanten Informationen.
+Die Errichtung des Datenaustauschs "Master Data" ermöglicht die laufende Aktualisierung der in IGISˢᶦˣ abgebildeten "Stammobjekte" mit allen, für IGISˢᶦˣ relevanten Stammdaten.
 
 ### 2. Equipment
 Die Errichtung des Datenaustauschs "Equipment" ermöglicht die Übergabe von "Bestandsdaten" (Ausstattungen, die in IGISˢᶦˣ erfasst werden) an das ERP-System. 
