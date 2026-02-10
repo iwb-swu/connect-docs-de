@@ -8,7 +8,7 @@ description: >-
 
 ## Übersicht
 
-* **Kategorien**: [Valuation & Pricing](../kategorien/valuation-and-pricing.md), [Reporting](../kategorien/reporting.md), [Gebäudemanagement](../kategorien/gebaeudemanagement.md)
+* **Kategorien**: [Valuation & Pricing](../kategorien/valuation-and-pricing.md), [Gebäudemanagement](../kategorien/gebaeudemanagement.md)
 * **Use Cases**: Master Data, Equipment, Tickets
 * **Marketplace**: [iwb & IGISˢᶦˣ](https://marketplace.aareon.com/de/listings/igissix)
 
