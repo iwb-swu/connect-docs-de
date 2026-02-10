@@ -14,7 +14,7 @@ description: >-
 
 ## Beschreibung
 
-IGISˢᶦˣ von iwb Immobilienwirtschaftliche Beratung GmbH ist eine Softwarelösung für das Bestands- und Portfoliomanagement in der Immobilien- und Wohnungswirtschaft. In der IGISˢᶦˣ-Datenbank werden technische, energetische und wirtschaftliche Daten von Immobilienbeständen erfasst und verwaltet. IGISˢᶦˣ bietet umfangreiche Planungs- und Reporting-Möglichkeiten und ist somit ein nützliches Werkzeug für Investitionsplanungen, Portfoliomanagement, die Entwicklung von Dekarbonisierungsstrategien und die Umsetzung von ESG-/Nachhaltigkeitskonzepten. Des Weiteren unterstützt IGISˢᶦˣ auch das Aufgaben- und Wartungsmanagement, insbesondere im Bereich der Verkehrssicherung von Gebäuden, Spielplätzen, Bäumen und Außenflächen, und ermöglicht eine effiziente Abwicklung dieser Prozesse. Bei weiteren Fragen zur Anbindung wenden Sie sich gerne direkt an die iwb.
+IGISˢᶦˣ von iwb Immobilienwirtschaftliche Beratung GmbH ist eine Softwarelösung für das Bestands- und Portfoliomanagement in der Immobilien- und Wohnungswirtschaft. In der IGISˢᶦˣ-Datenbank werden technische, energetische und wirtschaftliche Daten von Immobilienbeständen erfasst und verwaltet. IGISˢᶦˣ bietet umfangreiche Planungs- und Reporting-Möglichkeiten und ist somit ein nützliches Werkzeug für Investitionsplanungen, Portfoliomanagement, die Entwicklung von Dekarbonisierungsstrategien und die Umsetzung von ESG-/Nachhaltigkeitskonzepten. Des Weiteren unterstützt IGISˢᶦˣ das Aufgaben- und Wartungsmanagement, insbesondere im Bereich der Verkehrssicherung von Gebäuden, Spielplätzen, Bäumen und Außenflächen, und ermöglicht eine effiziente Abwicklung dieser Prozesse. Bei Fragen zur Anbindung wenden Sie sich gerne direkt an die iwb.
 
 ## Mit iwb & IGISˢᶦˣ verbinden
 
